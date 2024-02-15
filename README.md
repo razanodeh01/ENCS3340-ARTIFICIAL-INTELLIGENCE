@@ -6,6 +6,7 @@
 <p> In our effort to predict Covid-19 result, we employed both Artificial Neural Networks (ANN) and Decision Trees.</p>
 
 <h2>Results..</h2>
+https://github.com/razanodeh01/ENCS3340-ARTIFICIAL-INTELLIGENCE/assets/133569873/e04c5016-58c8-49c0-96f1-1e8844c9a53b
 
 
 
